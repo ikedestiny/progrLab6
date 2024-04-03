@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpaceMarines>
+    <spaceMarine>
+        <category>HELIX</category>
+        <chapter>
+            <name>44</name>
+            <parentLegion>44 parent</parentLegion>
+        </chapter>
+        <coordinates>
+            <x>3</x>
+            <y>3.0</y>
+        </coordinates>
+        <creationDate>2024-03-15T01:50:50.893152500</creationDate>
+        <health>3</health>
+        <loyal>true</loyal>
+        <name>3</name>
+        <weaponType>BOLT_RIFLE</weaponType>
+    </spaceMarine>
+    <spaceMarine>
+        <category>LIBRARIAN</category>
+        <chapter>
+            <name>the</name>
+            <parentLegion>the parent</parentLegion>
+        </chapter>
+        <coordinates>
+            <x>55</x>
+            <y>55.0</y>
+        </coordinates>
+        <creationDate>2024-03-15T01:50:50.891261600</creationDate>
+        <health>555</health>
+        <loyal>true</loyal>
+        <name>3</name>
+        <weaponType>GRAV_GUN</weaponType>
+    </spaceMarine>
+    <spaceMarine>
+        <category>INCEPTOR</category>
+        <chapter>
+            <name>22</name>
+            <parentLegion>22 parent</parentLegion>
+        </chapter>
+        <coordinates>
+            <x>33</x>
+            <y>33.0</y>
+        </coordinates>
+        <creationDate>2024-03-15T01:50:50.894153100</creationDate>
+        <health>33</health>
+        <loyal>true</loyal>
+        <name>33</name>
+        <weaponType>BOLT_RIFLE</weaponType>
+    </spaceMarine>
+</SpaceMarines>

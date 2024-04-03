@@ -1,0 +1,16 @@
+org\example\common\data\Weapon.class
+org\example\common\util\ServerResponse.class
+org\example\client\Client.class
+org\example\common\util\XmlParser.class
+org\example\client\util\SpaceMarineCreator.class
+org\example\common\util\Serializer.class
+org\example\common\data\Chapter.class
+org\example\common\exception\InvalidInputException.class
+org\example\common\util\CollectionManager.class
+org\example\common\exception\IllegalValueException.class
+org\example\common\data\AstartesCategory.class
+org\example\common\util\ClientRequest.class
+org\example\common\util\Status.class
+org\example\client\util\ConsoleManager.class
+org\example\common\data\Coordinates.class
+org\example\common\data\SpaceMarine.class
